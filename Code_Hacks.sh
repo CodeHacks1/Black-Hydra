@@ -89,11 +89,10 @@ ___  _    ____ ____ _  _    _  _ _   _ ___  ____ ____
 |__] |    |__| |    |_/     |__|  \_/  |  \ |__/ |__|
 |__] |___ |  | |___ | \_    |  |   |   |__/ |  \ |  |
 -----------------------------------------------------
-[]xxxxx[]::::::::::::::::::::> 20-07-2020 (17:01)
- [*] Author: Gameye98/DedSecTL  ---  [*] Version 1.1
-c=={:::::::::::::::> Black Hydra Console
- [*] My FB : https://m.facebook.com/Gameye98
-(}xxx{):::::::::> BlackHole Security
+Channel	[Code_Hacks] ¦ Version	 [1.0]
+This is Tools for Hacking Gmail
+Telegram Channel : https://t.me/Code_Hacks
+Made by a powerful channel code hacking team
 
               ===|[ Brute Force ]|===
 
