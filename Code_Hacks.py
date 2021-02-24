@@ -20,11 +20,11 @@ print "___  _    ____ ____ _  _    _  _ _   _ ___  ____ ____"
 print "|__] |    |__| |    |_/     |__|  \_/  |  \ |__/ |__|"
 print "|__] |___ |  | |___ | \_    |  |   |   |__/ |  \ |  |"
 print "-----------------------------------------------------"
-print "[]xxxxx[]::::::::::::::::::::> 24-07-2017 (7:53)"
-print " [*] Author: DedSecTL  ---  [*] Version 1.0"
-print "c=={:::::::::::::::> Black Hydra Console"
-print " [*] My FB : https://m.facebook.com/100004136748473"
-print "(}xxx{):::::::::> AndroSec1337 Cyber Team"
+print ""
+print "Channel	[Code_Hacks] ¦ Version	 [1.0]"
+print "This is Tools for Hacking Gmail"
+print "Telegram Channel : https://t.me/Code_Hacks"
+print "Made by a powerful channel code hacking team"
 print
 print "              ===|[ Brute Force ]|==="
 print
@@ -60,7 +60,7 @@ if bhydra == '01' or bhydra == '1':
 elif bhydra == '02' or bhydra == '2':
   print
   print "          +---------------------------+"
-  print "          |      VNC Brute Force      |"
+  print "          |VNC Brute Force|Code_Hacks |"
   print "          +---------------------------+"
   print
   print
@@ -72,7 +72,7 @@ elif bhydra == '02' or bhydra == '2':
 elif bhydra == '03' or bhydra == '3':
   print
   print "          +------------------------------+"
-  print "          |        FTP Brute Force       |"
+  print "          |FTP Brute   |Code_Hacks       |"
   print "          +------------------------------+"
   print
   print
@@ -85,7 +85,7 @@ elif bhydra == '03' or bhydra == '3':
 elif bhydra == '04' or bhydra == '4':
   print
   print "          +------------------------------+"
-  print "          |       Gmail Brute Force      |"
+  print "          |Gmail Brute Force|Code_Hacks  |"
   print "          +------------------------------+"
   print
   print
@@ -97,7 +97,7 @@ elif bhydra == '04' or bhydra == '4':
 elif bhydra == '05' or bhydra == '5':
    print
    print "         +--------------------------------+"
-   print "         |        SSH Brute Force         |"
+   print "         |SSH Brute Force|Code_Hacks      |"
    print "         +--------------------------------+"
    print
    print
